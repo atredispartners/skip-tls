@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 
-# Authors:
+#
+# All skip-tls stuff:
+#   Nathan Keltner, Atredis Partners
+#
+# tls.py (from tlslite) Authors:
 #   Trevor Perrin
 #   Marcelo Fernandez - bugfix and NPN support
 #   Martin von Loewis - python 3 port
