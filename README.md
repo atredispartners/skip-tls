@@ -3,6 +3,7 @@
 SkipTLS - hacked up version of tlslite (https://github.com/trevp/tlslite) to exploit https://www.smacktls.com/#skip
 
 To obtain certificates: 
+
     - openssl s_client -showcerts -host www.google.com -port 443
     - copy all of the certs (in the displayed order) into a .pem file
 
