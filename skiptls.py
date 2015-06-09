@@ -52,7 +52,7 @@ def printUsage(s=None):
     print("")
     print("""Usage:
 
-    ./skiptls.py server -c google_combined.pem --skipTls 127.0.0.1:443
+    ./skiptls.py server -c www.google.com.pem --skipTls 127.0.0.1:443
 
 """)
     sys.exit(-1)
